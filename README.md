@@ -7,7 +7,7 @@ Refer to [paper.pdf](https://github.com/M-uhaimin/Anomaly-Detection/blob/main/pa
 
 [unzip.py](https://github.com/M-uhaimin/Anomaly-Detection/blob/main/unzip.py): python script to unzip multiple zip files. 
 
-[copyfiles.py](https://github.com/M-uhaimin/Anomaly-Detection/blob/main/copyfiles.py): python script to copy or move multiple file
+[copyfiles.py](https://github.com/M-uhaimin/Anomaly-Detection/blob/main/copyfiles.py): python script to copy or move multiple files
 
 ** Both scipts above are useful when working with multiple huge files.
 
